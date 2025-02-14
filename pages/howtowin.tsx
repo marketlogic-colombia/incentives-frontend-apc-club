@@ -421,7 +421,7 @@ const howtowin = ({ htws }: { htws: any }) => {
           {dataHTW2 === "New Business" ? (
             <Image
               src={
-                "https://res.cloudinary.com/dechrcyu3/image/upload/v1739561229/ADOBE/HOW_TO_WIN_NEW_BUSINESS_FEBRERO_2025_1_svy7am.jpg"
+                "https://res.cloudinary.com/dechrcyu3/image/upload/v1739561802/ADOBE/HOW_TO_WIN_NEW_BUSINESS_FEBRERO_2025_Final_tggas1.webp"
               }
               height={1200}
               width={1245}
@@ -432,7 +432,7 @@ const howtowin = ({ htws }: { htws: any }) => {
           ) : (
             <Image
               src={
-                "https://res.cloudinary.com/dechrcyu3/image/upload/v1739561223/ADOBE/HOW_TO_WIN_AUTORENEWAL_FEBRERO_2025_1_o0udvv.jpg"
+                "https://res.cloudinary.com/dechrcyu3/image/upload/v1739561802/ADOBE/HOW_TO_WIN_AUTORENEWAL_FEBRERO_2025_Final_ko8zkh.webp"
               }
               height={1200}
               width={1245}
